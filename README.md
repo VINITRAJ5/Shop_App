@@ -1,16 +1,58 @@
-# shop_app
+Screenshot of This App Below
 
-A new Flutter project.
 
-## Getting Started
+![](Screenshots/1%20(1).jpg  | width=70)
 
-This project is a starting point for a Flutter application.
+Setting width to 48, with HTML <img src="https://github.com/favicon.ico" width="48">
 
-A few resources to get you started if this is your first Flutter project:
+As Kanye West said:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+> We're living the future so
+> the present is our past.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+
+
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+  
+  
+  I think you should use an
+`<addr>` element here instead.
+  
+  
+  
+  ```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+  
+  
+    function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
